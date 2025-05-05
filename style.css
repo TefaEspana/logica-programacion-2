@@ -1,0 +1,27 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background: #9e049136;
+}
+
+h2 {
+    font-weight: 700;
+    color: #8d038d;
+    text-shadow: 1px 1px 2px #ccc;
+    padding: 0.5em;
+    margin-left: 0.5em;
+}
+
+.container-fluid {
+    background-color: #8d038d42;
+    width: 29em;
+    height: auto;
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+}
+
+button {
+    border-radius: 5%;
+    background-color: #9e049171;
+    border-style: ridge;
+    border-color: #8d038d67;
+}
